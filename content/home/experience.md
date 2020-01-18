@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Director, Platform Engineering"
+  company = "Vivint Smart Home"
+  company_url = "https://www.vivint.com"
+  location = "Lehi, Utah"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Running two software development teams and two operations/SRE teams
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Manager/Senior Manager, DevOps"
+  company = "Vivint Smart Home"
+  company_url = "https://www.vivint.com"
+  location = "Lehi, Utah"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-12-01"
+  description = """
+  Responsibilities include:
+  
+  * test 
+  """
+
+  
+[[experience]]
+  title = "Senior/Principal Software Engineer, Platform"
+  company = "Vivint Smart Home"
+  company_url = "https://www.vivint.com"
+  location = "Lehi, Utah"
+  date_start = "2016-01-01"
+  date_end = "2018-12-01"
+  description = """
+  Responsibilities include:
+  
+  * Software development activities on the Vivint back-end
+  """
 
 +++
