@@ -13,3 +13,5 @@ Jeff Poole offers an overview of the concepts involved and explains what tuning 
 
 
 https://conferences.oreilly.com/velocity/vl-ca-2018/public/schedule/detail/66854
+
+{{< youtube bpjfu5MBhgw >}}

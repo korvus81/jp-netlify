@@ -20,3 +20,5 @@ Jeff concludes by walking you through some scenarios of different applications, 
 
 
 https://conferences.oreilly.com/software-architecture/sa-ny-2017/public/schedule/detail/56638
+
+{{< youtube ePcCD3iIeBo >}}
