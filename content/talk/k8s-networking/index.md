@@ -6,6 +6,8 @@ publication: O'Reilly Velocity Conference, San Jose
 abstract: |
   Networking with Docker and Kubernetes is a lot more complex than with traditional servers and virtual machines. Docker uses network namespaces and virtual interfaces to isolate container networks, while Kubernetes may use iptables rules to provide service routing and is commonly deployed with an overlay network (such as Flannel) in order to support a large IP space without having to reconfigure the existing physical network. Beyond that, you can add in network policies if that isn’t confusing enough.
 ---
+
+{{< youtube bpjfu5MBhgw >}}
   
 Networking with Docker and Kubernetes is a lot more complex than with traditional servers and virtual machines. Docker uses network namespaces and virtual interfaces to isolate container networks, while Kubernetes may use iptables rules to provide service routing and is commonly deployed with an overlay network (such as Flannel) in order to support a large IP space without having to reconfigure the existing physical network. Beyond that, you can add in network policies if that isn’t confusing enough.
 
@@ -13,5 +15,3 @@ Jeff Poole offers an overview of the concepts involved and explains what tuning 
 
 
 https://conferences.oreilly.com/velocity/vl-ca-2018/public/schedule/detail/66854
-
-{{< youtube bpjfu5MBhgw >}}

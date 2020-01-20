@@ -8,6 +8,8 @@ abstract: |
   Jeff Poole offers an overview of the reasons why you might design a system to run in multiple data centers. You get performance improvements: improving end-user latency and transfer speed as well as reducing lag in real-time media and command-and-control applications. More importantly, being geographically distributed can improve uptime and resilience to natural disasters or network issues that could plague a single data center.
 ---
   
+{{< youtube ePcCD3iIeBo >}}
+  
 Jeff Poole offers an overview of the reasons why you might design a system to run in multiple data centers. You get performance improvements: improving end-user latency and transfer speed as well as reducing lag in real-time media and command-and-control applications. More importantly, being geographically distributed can improve uptime and resilience to natural disasters or network issues that could plague a single data center.
 
 Jeff then explores the concepts to consider when moving to a multi-data-center deployment:
@@ -20,5 +22,3 @@ Jeff concludes by walking you through some scenarios of different applications, 
 
 
 https://conferences.oreilly.com/software-architecture/sa-ny-2017/public/schedule/detail/56638
-
-{{< youtube ePcCD3iIeBo >}}
